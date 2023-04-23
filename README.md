@@ -11,11 +11,9 @@
 
 - 🌱 I’m currently learning **embedded systems, micro controller programming**
 
-- 👨‍💻 All of my projects are available at [GitHub](GitHub)
+- 👨‍💻 All of my projects are available at [GitHub](https://github.com/minisbett)
 
-- 💬 Ask me about **C# and Windows**
-
-- 📫 How to reach me **Discord: minisbett#8873**
+- 💬 Ask me about **.NET, C# and Windows**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
